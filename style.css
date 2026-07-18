@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(101, 99, 99);
+    text-align: center;
+    margin: 10px;
+    border: 10px solid palevioletred;
+}
+
+h1 {
+    color: palevioletred;
+    text-shadow: 0cap;
+    font-family: 'Lucida Sans';
+}
+
+#stats {
+    margin: 25px
+}
+
+#cookie {
+  width: 100px;
+  height: auto;
+} 
+
+#heart {
+    width: 100px;
+    height: auto;
+}
+
+
+#stats {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+#hunger,
+#happiness {
+    position: static;
+    color: palevioletred;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+}
+
+@media (max-width:600px) {
+    #pet {
+        width:250px;
+        display: block;
+        margin: 0 auto;
+    }
+
+#cookie,
+#heart {
+    width: 60px;
+}
+
+#stats {
+    margin: 25px
+}
+
+
+body {
+ margin: 0;
+ border-width: 5px;
+}
+}

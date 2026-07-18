@@ -1,0 +1,46 @@
+# Chiikize 🐾
+
+Keep your little friend alive!
+
+Chiikize is a short virtual-pet-style browser game where the player must care for a character by clicking before its needs run out. Built using HTML, CSS, and JavaScript as a front-end development project.
+
+**Play here:**  
+https://praesepe-44.github.io/chiikize/
+
+## Features
+
+- Simple virtual pet gameplay
+- Real-time stat management
+- Browser-based with no installation required
+- Character-focused design
+
+## Built With
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Skills Demonstrated
+
+- DOM manipulation
+- Event handling
+- Timers and game loops
+- Conditional logic
+- Front-end web development fundamentals
+
+## Goal
+
+Keep your character Biba happy and alive for as long as possible!
+
+## Running the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/praesepe-44/chiikize.git
+   ```
+
+2. Open `index.html` in your preferred web browser.
+
+## Author
+
+Created by praesepe-44
